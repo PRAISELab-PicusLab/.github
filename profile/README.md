@@ -4,10 +4,19 @@
 
 <h1 align="center">Hi 👋, we are the PRAISE Research Group</h1>
 <h3 align="center">Predictive Analytics for Understanding Big Multimedia Data @ University of Naples Federico II</h3>
+<div align="center">
+  <img src="https://www2.almalaurea.it/img/logofull/70018.png" width="15%", style="padding: 5px;">
+  <img src="https://th.bing.com/th/id/OIP.KbIGRsHkdRj-Ao8nM3VTGAAAAA?rs=1&pid=ImgDetMain" width="15%", style="padding: 5px;">
+  <img src="https://picuslab.dieti.unina.it/images/hp-slider/Image_Logo5.png" width="15%", style="margin-top: 25px;">
+</div>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=praise-research" alt="praise-research"/>
 </p>
+
+
+
+
 
 ---
 
@@ -47,6 +56,7 @@ Our goal is to develop intelligent systems that can **understand**, **predict**,
 
 We are currently developing **fine-tuned multimodal language models** for the **Italian medical domain**, in collaboration with national (e.g., Accenture, Almaviva) and international partners (e.g., King’s College London).  
 Our models integrate **textual** and **visual** medical data to support clinical tasks in real-world applications.
+
 
 ---
 
