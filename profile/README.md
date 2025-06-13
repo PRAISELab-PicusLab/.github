@@ -5,9 +5,9 @@
 <h1 align="center">Hi 👋, we are the PRAISE Research Group</h1>
 <h3 align="center">Predictive Analytics for Understanding Big Multimedia Data @ University of Naples Federico II</h3>
 <div align="center">
-  <img src="https://www2.almalaurea.it/img/logofull/70018.png" width="15%", style="padding: 5px;">
-  <img src="https://th.bing.com/th/id/OIP.KbIGRsHkdRj-Ao8nM3VTGAAAAA?rs=1&pid=ImgDetMain" width="15%", style="padding: 5px;">
-  <img src="https://picuslab.dieti.unina.it/images/hp-slider/Image_Logo5.png" width="15%", style="margin-top: 25px;">
+  <img src="https://www2.almalaurea.it/img/logofull/70018.png" height="50px", style="padding: 5px;">
+  <img src="https://th.bing.com/th/id/OIP.KbIGRsHkdRj-Ao8nM3VTGAAAAA?rs=1&pid=ImgDetMain" height="50px", style="padding: 5px;">
+  <img src="https://picuslab.dieti.unina.it/images/hp-slider/Image_Logo5.png" height="50px", style="margin-top: 25px;">
 </div>
 
 <p align="left">
@@ -82,6 +82,37 @@ Our models integrate **textual** and **visual** medical data to support clinical
 
 ## ⭐ Members
 
-<a href="https://github.com/PRAISELab-PicusLab/.github/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=PRAISELab-PicusLab/.github" />
-</a>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/giuseppericcio">
+        <img src="https://avatars.githubusercontent.com/giuseppericcio" width="100px;" alt="Giuseppe Riccio"/><br />
+        <sub><b>Giuseppe Riccio</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/laerre9">
+        <img src="https://avatars.githubusercontent.com/laerre9" width="100px;" alt="Antonio Romano"/><br />
+        <sub><b>Antonio Romano</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/giammy677dev">
+        <img src="https://avatars.githubusercontent.com/giammy677dev" width="100px;" alt="Gian Marco Orlando"/><br />
+        <sub><b>Gian Marco Orlando</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/diegorusso95">
+        <img src="https://avatars.githubusercontent.com/diegorusso95" width="100px;" alt="Diego Russo"/><br />
+        <sub><b>Diego Russo</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/csmariano">
+        <img src="https://avatars.githubusercontent.com/csmariano" width="100px;" alt="Mariano Barone"/><br />
+        <sub><b>Mariano Barone</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
