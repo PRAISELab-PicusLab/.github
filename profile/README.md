@@ -4,19 +4,16 @@
 
 <h1 align="center">Hi 👋, we are the PRAISE Research Group</h1>
 <h3 align="center">Predictive Analytics for Understanding Big Multimedia Data @ University of Naples Federico II</h3>
+
 <div align="center">
-  <img src="https://www2.almalaurea.it/img/logofull/70018.png" height="50px", style="padding: 5px;">
-  <img src="https://th.bing.com/th/id/OIP.KbIGRsHkdRj-Ao8nM3VTGAAAAA?rs=1&pid=ImgDetMain" height="50px", style="padding: 5px;">
-  <img src="https://picuslab.dieti.unina.it/images/hp-slider/Image_Logo5.png" height="50px", style="margin-top: 25px;">
+  <img src="https://napoli.esn.it/satellitenew/sites/esnnapoli.it/files/FedericoII.jpg" height="20%" width="20%", style="padding: 5px;">
+  <img src="https://th.bing.com/th/id/OIP.KbIGRsHkdRj-Ao8nM3VTGAAAAA?rs=1&pid=ImgDetMain" height="25%" width="25%", style="padding: 5px;">
+  <img src="https://picuslab.dieti.unina.it/images/hp-slider/Image_Logo5.png" height="20%" width="20%", style="padding: 5px;">
 </div>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=praise-research" alt="praise-research"/>
 </p>
-
-
-
-
 
 ---
 
