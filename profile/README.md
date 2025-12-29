@@ -111,5 +111,11 @@ Our models integrate **textual** and **visual** medical data to support clinical
         <sub><b>Mariano Barone</b></sub>
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/fdiserio">
+        <img src="https://avatars.githubusercontent.com/fdiserio" width="100px;" alt="Francesco Di Serio"/><br />
+        <sub><b>Francesco Di Serio</b></sub>
+      </a>
+    </td>
   </tr>
 </table>
