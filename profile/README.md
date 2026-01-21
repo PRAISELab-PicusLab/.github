@@ -28,16 +28,16 @@ Our goal is to develop intelligent systems that can **understand**, **predict**,
 
 ## 🔬 Research Topics
 
+- **Social Network Modeling & Simulation**
+  - Generative Agent-Based Frameworks
+  - LLM-driven simulation of social phenomena: stance change, information diffusion
+  - Tools for crowd fact-checking, fake news and harmful content detection
+
 - **Multimodal AI for Healthcare**
   - Multilingual and multimodal language models
   - Diagnostic and therapeutic AI assistance
   - Automatic EHR generation from speech and unstructured text (Italian)
   - Medical image understanding (CT, MRI, X-ray, etc.)
-
-- **Social Network Modeling & Simulation**
-  - Generative Agent-Based Frameworks
-  - LLM-driven simulation of social phenomena: stance change, information diffusion
-  - Tools for crowd fact-checking, fake news and harmful content detection
 
 - **Lie Detection from Multimedia Streams**
   - AI for behavioral analysis and deception detection
@@ -82,18 +82,6 @@ Our models integrate **textual** and **visual** medical data to support clinical
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/giuseppericcio">
-        <img src="https://avatars.githubusercontent.com/giuseppericcio" width="100px;" alt="Giuseppe Riccio"/><br />
-        <sub><b>Giuseppe Riccio</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/laerre9">
-        <img src="https://avatars.githubusercontent.com/laerre9" width="100px;" alt="Antonio Romano"/><br />
-        <sub><b>Antonio Romano</b></sub>
-      </a>
-    </td>
-    <td align="center">
       <a href="https://github.com/giammy677dev">
         <img src="https://avatars.githubusercontent.com/giammy677dev" width="100px;" alt="Gian Marco Orlando"/><br />
         <sub><b>Gian Marco Orlando</b></sub>
@@ -103,6 +91,24 @@ Our models integrate **textual** and **visual** medical data to support clinical
       <a href="https://github.com/diegorusso95">
         <img src="https://avatars.githubusercontent.com/diegorusso95" width="100px;" alt="Diego Russo"/><br />
         <sub><b>Diego Russo</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Mav3rick26">
+        <img src="https://avatars.githubusercontent.com/u/82703412?v=4" width="100px;" alt="Marco Perillo"/><br />
+        <sub><b>Marco Perillo</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/giuseppericcio">
+        <img src="https://avatars.githubusercontent.com/giuseppericcio" width="100px;" alt="Giuseppe Riccio"/><br />
+        <sub><b>Giuseppe Riccio</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/laerre9">
+        <img src="https://avatars.githubusercontent.com/laerre9" width="100px;" alt="Antonio Romano"/><br />
+        <sub><b>Antonio Romano</b></sub>
       </a>
     </td>
     <td align="center">
